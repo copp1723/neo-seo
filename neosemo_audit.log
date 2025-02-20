@@ -1,0 +1,746 @@
+2025-02-18 22:21:09,443 - INFO: ====== WebDriver manager ======
+2025-02-18 22:21:09,597 - INFO: Get LATEST chromedriver version for google-chrome
+2025-02-18 22:21:09,644 - INFO: Get LATEST chromedriver version for google-chrome
+2025-02-18 22:21:09,680 - INFO: Driver [/Users/copp1723/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-18 22:21:11,965 - INFO: Processing: fewelterlenmotors.com
+2025-02-18 22:21:14,980 - INFO: URL entered
+2025-02-18 22:21:15,038 - INFO: URL submitted
+2025-02-18 22:21:15,089 - INFO: Email entered
+2025-02-18 22:21:15,136 - INFO: Form submitted
+2025-02-18 22:21:20,141 - ERROR: Error processing fewelterlenmotors.com: 'NoneType' object has no attribute 'is_displayed'
+2025-02-18 22:21:22,145 - INFO: Processing: www.torkelsonmotors.com
+2025-02-18 22:21:22,149 - ERROR: Error processing www.torkelsonmotors.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:24,155 - INFO: Processing: 4brownsgm.com
+2025-02-18 22:21:24,157 - ERROR: Error processing 4brownsgm.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:26,162 - INFO: Processing: emmetsburgford.net
+2025-02-18 22:21:26,166 - ERROR: Error processing emmetsburgford.net: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:28,170 - INFO: Processing: motorinngm.com
+2025-02-18 22:21:28,173 - ERROR: Error processing motorinngm.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:30,178 - INFO: Processing: feslerford.com
+2025-02-18 22:21:30,181 - ERROR: Error processing feslerford.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:32,186 - INFO: Processing: fairfieldiachevy.com
+2025-02-18 22:21:32,192 - ERROR: Error processing fairfieldiachevy.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:34,197 - INFO: Processing: www.chryslerofforestcity.com
+2025-02-18 22:21:34,201 - ERROR: Error processing www.chryslerofforestcity.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:36,205 - INFO: Processing: forestcitygm.com
+2025-02-18 22:21:36,208 - ERROR: Error processing forestcitygm.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:38,213 - INFO: Processing: fordforestcity.net
+2025-02-18 22:21:38,217 - ERROR: Error processing fordforestcity.net: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:40,224 - INFO: Processing: fdford.com
+2025-02-18 22:21:40,227 - ERROR: Error processing fdford.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:42,229 - INFO: Processing: kemnafortdodge.com
+2025-02-18 22:21:42,232 - ERROR: Error processing kemnafortdodge.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:44,233 - INFO: Processing: www.shimkat.com
+2025-02-18 22:21:44,235 - ERROR: Error processing www.shimkat.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:46,240 - INFO: Processing: www.jimbaier.net
+2025-02-18 22:21:46,245 - ERROR: Error processing www.jimbaier.net: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:48,250 - INFO: Processing: jimbaierinc.com
+2025-02-18 22:21:48,254 - ERROR: Error processing jimbaierinc.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:50,256 - INFO: Processing: shottenkirkcadillacfortmadison.com
+2025-02-18 22:21:50,257 - ERROR: Error processing shottenkirkcadillacfortmadison.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:52,262 - INFO: Processing: shottenkirkfortmadison.com
+2025-02-18 22:21:52,265 - ERROR: Error processing shottenkirkfortmadison.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:54,271 - INFO: Processing: beneventichevy.com
+2025-02-18 22:21:54,277 - ERROR: Error processing beneventichevy.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:56,282 - INFO: Processing: grangermotors.com
+2025-02-18 22:21:56,285 - ERROR: Error processing grangermotors.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:21:58,290 - INFO: Processing: grangerford.net
+2025-02-18 22:21:58,293 - ERROR: Error processing grangerford.net: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:22:00,299 - INFO: Processing: www.suzukidm.com
+2025-02-18 22:22:00,306 - ERROR: Error processing www.suzukidm.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:22:02,311 - INFO: Processing: www.desmoinessaab.com
+2025-02-18 22:22:02,319 - ERROR: Error processing www.desmoinessaab.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:22:04,325 - INFO: Processing: steve-link.com
+2025-02-18 22:22:04,329 - ERROR: Error processing steve-link.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:22:06,331 - INFO: Processing: www.wesfinch.com
+2025-02-18 22:22:06,334 - ERROR: Error processing www.wesfinch.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:22:08,338 - INFO: Processing: wesfinchauto.com
+2025-02-18 22:22:08,341 - ERROR: Error processing wesfinchauto.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:22:10,343 - INFO: Processing: www.rousemotor.com
+2025-02-18 22:22:10,346 - ERROR: Error processing www.rousemotor.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:22:12,350 - INFO: Processing: brownssl.com
+2025-02-18 22:22:12,353 - ERROR: Error processing brownssl.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:22:14,359 - INFO: Processing: browns-gtb.com
+2025-02-18 22:22:14,362 - ERROR: Error processing browns-gtb.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:22:16,365 - INFO: Processing: keastchevybuickgmc.com
+2025-02-18 22:22:16,368 - ERROR: Error processing keastchevybuickgmc.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:22:18,371 - INFO: Processing: cedarrapidstoyota.com
+2025-02-18 22:22:18,376 - ERROR: Error processing cedarrapidstoyota.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:22:20,378 - INFO: Processing: www.kiaofcedarrapids.com
+2025-02-18 22:22:20,380 - ERROR: Error processing www.kiaofcedarrapids.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:22:22,383 - INFO: Processing: mcgrathbgc.com
+2025-02-18 22:22:22,386 - ERROR: Error processing mcgrathbgc.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+
+2025-02-18 22:22:24,391 - INFO: Processing: mcgrathvw.com
+2025-02-18 22:22:24,394 - ERROR: Error processing mcgrathvw.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+0   chromedriver                        0x000000010324eb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x00000001032471b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000102dadafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x0000000102d874d4 chromedriver + 128212
+4   chromedriver                        0x0000000102e1cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000102e35694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000102de8ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000103217610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x000000010321a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x00000001031fccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x000000010321b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x00000001031edc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000103237880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000103237a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000103246e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x00000001880702e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018806b0fc thread_start + 8
+

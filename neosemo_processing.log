@@ -1,0 +1,1204 @@
+2025-02-19 12:56:23,585 - INFO: ====== WebDriver manager ======
+2025-02-19 12:56:24,064 - INFO: Get LATEST chromedriver version for google-chrome
+2025-02-19 12:56:24,158 - INFO: Get LATEST chromedriver version for google-chrome
+2025-02-19 12:56:24,192 - INFO: Driver [/Users/copp1723/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-19 12:56:25,908 - INFO: URL Insights for holmauto.com:
+No AI insights available
+2025-02-19 12:56:29,182 - INFO: URL entered: holmauto.com
+2025-02-19 12:56:29,295 - INFO: URL submitted
+2025-02-19 12:56:29,386 - INFO: Email entered
+2025-02-19 12:56:29,502 - INFO: Form submitted
+2025-02-19 12:56:36,724 - INFO: Popup closed
+2025-02-19 12:56:36,729 - INFO: Audit Report URL: https://neosemo.ai/search/2774
+2025-02-19 12:56:38,733 - INFO: URL Insights for holmautocadillac.com:
+No AI insights available
+2025-02-19 12:56:41,205 - INFO: URL entered: holmautocadillac.com
+2025-02-19 12:56:41,267 - INFO: URL submitted
+2025-02-19 12:56:41,328 - INFO: Email entered
+2025-02-19 12:56:41,366 - INFO: Form submitted
+2025-02-19 12:56:49,508 - INFO: No popup detected
+2025-02-19 12:56:49,514 - INFO: Audit Report URL: https://neosemo.ai/search/2775
+2025-02-19 12:56:51,514 - INFO: URL Insights for hollyChevrolet.com:
+No AI insights available
+2025-02-19 12:56:53,941 - INFO: URL entered: hollyChevrolet.com
+2025-02-19 12:56:53,998 - INFO: URL submitted
+2025-02-19 12:56:54,051 - INFO: Email entered
+2025-02-19 12:57:04,353 - ERROR: Failed to submit form for hollyChevrolet.com: Message: 
+
+2025-02-19 12:57:06,359 - INFO: URL Insights for reedyfordonline.com:
+No AI insights available
+2025-02-19 12:57:09,033 - INFO: URL entered: reedyfordonline.com
+2025-02-19 12:57:09,097 - INFO: URL submitted
+2025-02-19 12:57:09,154 - INFO: Email entered
+2025-02-19 12:57:19,506 - ERROR: Failed to submit form for reedyfordonline.com: Message: 
+
+2025-02-19 12:57:21,509 - INFO: URL Insights for lewisChevroletbuick.com:
+No AI insights available
+2025-02-19 12:57:24,206 - INFO: URL entered: lewisChevroletbuick.com
+2025-02-19 12:57:24,267 - INFO: URL submitted
+2025-02-19 12:57:24,325 - INFO: Email entered
+2025-02-19 12:57:34,679 - ERROR: Failed to submit form for lewisChevroletbuick.com: Message: 
+
+2025-02-19 12:57:36,685 - INFO: URL Insights for www.cwbeamgard.com:
+No AI insights available
+2025-02-19 12:57:39,459 - INFO: URL entered: www.cwbeamgard.com
+2025-02-19 12:57:39,524 - INFO: URL submitted
+2025-02-19 12:57:39,573 - INFO: Email entered
+2025-02-19 12:57:49,969 - ERROR: Failed to submit form for www.cwbeamgard.com: Message: 
+
+2025-02-19 12:57:51,974 - INFO: URL Insights for donhattanford.com:
+No AI insights available
+2025-02-19 12:57:54,604 - INFO: URL entered: donhattanford.com
+2025-02-19 12:57:54,675 - INFO: URL submitted
+2025-02-19 12:57:54,734 - INFO: Email entered
+2025-02-19 12:58:05,114 - ERROR: Failed to submit form for donhattanford.com: Message: 
+
+2025-02-19 12:58:07,120 - INFO: URL Insights for parksmotors.com:
+No AI insights available
+2025-02-19 12:58:09,772 - INFO: URL entered: parksmotors.com
+2025-02-19 12:58:09,836 - INFO: URL submitted
+2025-02-19 12:58:09,893 - INFO: Email entered
+2025-02-19 12:58:20,296 - ERROR: Failed to submit form for parksmotors.com: Message: 
+
+2025-02-19 12:58:22,299 - INFO: URL Insights for www.parkschryslerdodgejeep.com:
+No AI insights available
+2025-02-19 12:58:24,971 - INFO: URL entered: www.parkschryslerdodgejeep.com
+2025-02-19 12:58:25,031 - INFO: URL submitted
+2025-02-19 12:58:25,090 - INFO: Email entered
+2025-02-19 12:58:35,503 - ERROR: Failed to submit form for www.parkschryslerdodgejeep.com: Message: 
+
+2025-02-19 12:58:37,504 - INFO: URL Insights for meltonChevrolet.com:
+No AI insights available
+2025-02-19 12:58:40,139 - INFO: URL entered: meltonChevrolet.com
+2025-02-19 12:58:40,204 - INFO: URL submitted
+2025-02-19 12:58:40,259 - INFO: Email entered
+2025-02-19 12:58:50,626 - ERROR: Failed to submit form for meltonChevrolet.com: Message: 
+
+2025-02-19 12:58:52,628 - INFO: URL Insights for crow-moddieChevrolet.com:
+No AI insights available
+2025-02-19 12:58:55,309 - INFO: URL entered: crow-moddieChevrolet.com
+2025-02-19 12:58:55,379 - INFO: URL submitted
+2025-02-19 12:58:55,435 - INFO: Email entered
+2025-02-19 12:59:05,854 - ERROR: Failed to submit form for crow-moddieChevrolet.com: Message: 
+
+2025-02-19 12:59:07,861 - INFO: URL Insights for jayhatfieldchanute.com:
+No AI insights available
+2025-02-19 12:59:10,579 - INFO: URL entered: jayhatfieldchanute.com
+2025-02-19 12:59:10,656 - INFO: URL submitted
+2025-02-19 12:59:10,723 - INFO: Email entered
+2025-02-19 12:59:21,120 - ERROR: Failed to submit form for jayhatfieldchanute.com: Message: 
+
+2025-02-19 12:59:23,123 - INFO: URL Insights for jayhatfieldchanute.com:
+No AI insights available
+2025-02-19 12:59:25,752 - INFO: URL entered: jayhatfieldchanute.com
+2025-02-19 12:59:25,819 - INFO: URL submitted
+2025-02-19 12:59:25,872 - INFO: Email entered
+2025-02-19 12:59:36,248 - ERROR: Failed to submit form for jayhatfieldchanute.com: Message: 
+
+2025-02-19 12:59:38,254 - INFO: URL Insights for www.shieldsmotorchryslerdodgejeep.com:
+No AI insights available
+2025-02-19 12:59:40,956 - INFO: URL entered: www.shieldsmotorchryslerdodgejeep.com
+2025-02-19 12:59:41,015 - INFO: URL submitted
+2025-02-19 12:59:41,065 - INFO: Email entered
+2025-02-19 12:59:51,443 - ERROR: Failed to submit form for www.shieldsmotorchryslerdodgejeep.com: Message: 
+
+2025-02-19 12:59:53,446 - INFO: URL Insights for lubbersbrothers.com:
+No AI insights available
+2025-02-19 12:59:56,112 - INFO: URL entered: lubbersbrothers.com
+2025-02-19 12:59:56,175 - INFO: URL submitted
+2025-02-19 12:59:56,225 - INFO: Email entered
+2025-02-19 13:00:06,597 - ERROR: Failed to submit form for lubbersbrothers.com: Message: 
+
+2025-02-19 13:00:08,600 - INFO: URL Insights for www.colbychryslerdodgejeep.com:
+No AI insights available
+2025-02-19 13:00:11,317 - INFO: URL entered: www.colbychryslerdodgejeep.com
+2025-02-19 13:00:11,384 - INFO: URL submitted
+2025-02-19 13:00:11,436 - INFO: Email entered
+2025-02-19 13:00:21,836 - ERROR: Failed to submit form for www.colbychryslerdodgejeep.com: Message: 
+
+2025-02-19 13:00:23,841 - INFO: URL Insights for jayhatfieldchevy.net:
+No AI insights available
+2025-02-19 13:00:26,467 - INFO: URL entered: jayhatfieldchevy.net
+2025-02-19 13:00:26,533 - INFO: URL submitted
+2025-02-19 13:00:26,589 - INFO: Email entered
+2025-02-19 13:00:36,946 - ERROR: Failed to submit form for jayhatfieldchevy.net: Message: 
+
+2025-02-19 13:00:38,949 - INFO: URL Insights for mikecarpinoford.com:
+No AI insights available
+2025-02-19 13:00:41,634 - INFO: URL entered: mikecarpinoford.com
+2025-02-19 13:00:41,697 - INFO: URL submitted
+2025-02-19 13:00:41,752 - INFO: Email entered
+2025-02-19 13:00:52,199 - ERROR: Failed to submit form for mikecarpinoford.com: Message: 
+
+2025-02-19 13:00:54,200 - INFO: URL Insights for concordiachevybuick.com:
+No AI insights available
+2025-02-19 13:00:56,864 - INFO: URL entered: concordiachevybuick.com
+2025-02-19 13:00:56,930 - INFO: URL submitted
+2025-02-19 13:00:56,989 - INFO: Email entered
+2025-02-19 13:01:07,387 - ERROR: Failed to submit form for concordiachevybuick.com: Message: 
+
+2025-02-19 13:01:09,392 - INFO: URL Insights for www.boltonchryslerdodgejeep.com:
+No AI insights available
+2025-02-19 13:01:12,075 - INFO: URL entered: www.boltonchryslerdodgejeep.com
+2025-02-19 13:01:12,141 - INFO: URL submitted
+2025-02-19 13:01:12,194 - INFO: Email entered
+2025-02-19 13:01:22,634 - ERROR: Failed to submit form for www.boltonchryslerdodgejeep.com: Message: 
+
+2025-02-19 13:01:24,638 - INFO: URL Insights for www.facebook.com:
+No AI insights available
+2025-02-19 13:01:27,295 - INFO: URL entered: www.facebook.com
+2025-02-19 13:01:27,357 - INFO: URL submitted
+2025-02-19 13:01:27,443 - INFO: Email entered
+2025-02-19 13:01:37,840 - ERROR: Failed to submit form for www.facebook.com: Message: 
+
+2025-02-19 13:01:39,844 - INFO: URL Insights for buygghyundai.com:
+No AI insights available
+2025-02-19 13:01:42,478 - INFO: URL entered: buygghyundai.com
+2025-02-19 13:01:42,544 - INFO: URL submitted
+2025-02-19 13:01:42,601 - INFO: Email entered
+2025-02-19 13:01:52,986 - ERROR: Failed to submit form for buygghyundai.com: Message: 
+
+2025-02-19 13:01:54,990 - INFO: URL Insights for www.buyggautos.com:
+No AI insights available
+2025-02-19 13:01:57,671 - INFO: URL entered: www.buyggautos.com
+2025-02-19 13:01:57,735 - INFO: URL submitted
+2025-02-19 13:01:57,791 - INFO: Email entered
+2025-02-19 13:02:08,193 - ERROR: Failed to submit form for www.buyggautos.com: Message: 
+
+2025-02-19 13:02:10,195 - INFO: URL Insights for www.loppmotors.net:
+No AI insights available
+2025-02-19 13:02:12,825 - INFO: URL entered: www.loppmotors.net
+2025-02-19 13:02:12,887 - INFO: URL submitted
+2025-02-19 13:02:12,943 - INFO: Email entered
+2025-02-19 13:02:23,337 - ERROR: Failed to submit form for www.loppmotors.net: Message: 
+
+2025-02-19 13:02:25,342 - INFO: URL Insights for www.loppmotors.net:
+No AI insights available
+2025-02-19 13:02:27,980 - INFO: URL entered: www.loppmotors.net
+2025-02-19 13:02:28,043 - INFO: URL submitted
+2025-02-19 13:02:28,099 - INFO: Email entered
+2025-02-19 13:02:40,622 - INFO: Form submitted
+2025-02-19 13:02:47,179 - INFO: Popup closed
+2025-02-19 13:02:47,182 - INFO: Audit Report URL: https://neosemo.ai/search/2776
+2025-02-19 13:02:49,185 - INFO: URL Insights for johnkfisher.com:
+No AI insights available
+2025-02-19 13:02:51,654 - INFO: URL entered: johnkfisher.com
+2025-02-19 13:02:51,734 - INFO: URL submitted
+2025-02-19 13:02:51,800 - INFO: Email entered
+2025-02-19 13:02:51,848 - INFO: Form submitted
+2025-02-19 13:02:59,985 - INFO: No popup detected
+2025-02-19 13:02:59,988 - INFO: Audit Report URL: https://neosemo.ai/search/2777
+2025-02-19 13:03:01,993 - INFO: URL Insights for johnkfisher.com:
+No AI insights available
+2025-02-19 13:03:04,473 - INFO: URL entered: johnkfisher.com
+2025-02-19 13:03:04,530 - INFO: URL submitted
+2025-02-19 13:03:04,604 - INFO: Email entered
+2025-02-19 13:03:04,664 - INFO: Form submitted
+2025-02-19 13:03:12,797 - INFO: No popup detected
+2025-02-19 13:03:12,802 - INFO: Audit Report URL: https://neosemo.ai/search/2778
+2025-02-19 13:03:14,806 - INFO: URL Insights for clintbowyertoyota.com:
+No AI insights available
+2025-02-19 13:03:17,217 - INFO: URL entered: clintbowyertoyota.com
+2025-02-19 13:03:17,276 - INFO: URL submitted
+2025-02-19 13:03:17,344 - INFO: Email entered
+2025-02-19 13:03:17,390 - INFO: Form submitted
+2025-02-19 13:03:25,523 - INFO: No popup detected
+2025-02-19 13:03:25,527 - INFO: Audit Report URL: https://neosemo.ai/search/2779
+2025-02-19 13:03:27,534 - INFO: URL Insights for www.johnnorthnissan.com:
+No AI insights available
+2025-02-19 13:03:29,947 - INFO: URL entered: www.johnnorthnissan.com
+2025-02-19 13:03:30,008 - INFO: URL submitted
+2025-02-19 13:03:30,090 - INFO: Email entered
+2025-02-19 13:03:30,147 - INFO: Form submitted
+2025-02-19 13:03:38,311 - INFO: No popup detected
+2025-02-19 13:03:38,362 - INFO: Audit Report URL: https://neosemo.ai/search/2780
+2025-02-19 13:03:40,363 - INFO: URL Insights for longbineauto.com:
+No AI insights available
+2025-02-19 13:03:42,843 - INFO: URL entered: longbineauto.com
+2025-02-19 13:03:42,921 - INFO: URL submitted
+2025-02-19 13:03:42,993 - INFO: Email entered
+2025-02-19 13:03:43,039 - INFO: Form submitted
+2025-02-19 13:03:51,183 - INFO: No popup detected
+2025-02-19 13:03:51,187 - INFO: Audit Report URL: https://neosemo.ai/search/2781
+2025-02-19 13:03:53,190 - INFO: URL Insights for briggsftscottchevrolet.com:
+No AI insights available
+2025-02-19 13:03:55,665 - INFO: URL entered: briggsftscottchevrolet.com
+2025-02-19 13:03:55,724 - INFO: URL submitted
+2025-02-19 13:03:55,787 - INFO: Email entered
+2025-02-19 13:03:55,884 - INFO: Form submitted
+2025-02-19 13:04:04,030 - INFO: No popup detected
+2025-02-19 13:04:04,034 - INFO: Audit Report URL: https://neosemo.ai/search/2782
+2025-02-19 13:04:06,039 - INFO: URL Insights for briggsftscottChevrolet.com:
+No AI insights available
+2025-02-19 13:04:08,754 - INFO: URL entered: briggsftscottChevrolet.com
+2025-02-19 13:04:08,875 - INFO: URL submitted
+2025-02-19 13:04:08,936 - INFO: Email entered
+2025-02-19 13:04:08,995 - INFO: Form submitted
+2025-02-19 13:04:17,119 - INFO: No popup detected
+2025-02-19 13:04:17,122 - INFO: Audit Report URL: https://neosemo.ai/search/2783
+2025-02-19 13:04:19,127 - INFO: URL Insights for briggsoffortscottks.com:
+No AI insights available
+2025-02-19 13:04:21,602 - INFO: URL entered: briggsoffortscottks.com
+2025-02-19 13:04:21,665 - INFO: URL submitted
+2025-02-19 13:04:21,744 - INFO: Email entered
+2025-02-19 13:04:21,813 - INFO: Form submitted
+2025-02-19 13:04:29,936 - INFO: No popup detected
+2025-02-19 13:04:29,939 - INFO: Audit Report URL: https://neosemo.ai/search/2784
+2025-02-19 13:04:31,942 - INFO: URL Insights for leechev.com:
+No AI insights available
+2025-02-19 13:04:34,395 - INFO: URL entered: leechev.com
+2025-02-19 13:04:34,496 - INFO: URL submitted
+2025-02-19 13:04:34,671 - INFO: Email entered
+2025-02-19 13:04:34,741 - INFO: Form submitted
+2025-02-19 13:04:42,909 - INFO: No popup detected
+2025-02-19 13:04:42,912 - INFO: Audit Report URL: https://neosemo.ai/search/2785
+2025-02-19 13:04:44,916 - INFO: URL Insights for molleautomotive.net:
+No AI insights available
+2025-02-19 13:04:47,355 - INFO: URL entered: molleautomotive.net
+2025-02-19 13:04:47,446 - INFO: URL submitted
+2025-02-19 13:04:47,511 - INFO: Email entered
+2025-02-19 13:04:47,560 - INFO: Form submitted
+2025-02-19 13:04:55,718 - INFO: No popup detected
+2025-02-19 13:04:55,723 - INFO: Audit Report URL: https://neosemo.ai/search/2786
+2025-02-19 13:04:57,727 - INFO: URL Insights for molleautomotive.net:
+No AI insights available
+2025-02-19 13:05:00,221 - INFO: URL entered: molleautomotive.net
+2025-02-19 13:05:00,330 - INFO: URL submitted
+2025-02-19 13:05:00,393 - INFO: Email entered
+2025-02-19 13:05:00,441 - INFO: Form submitted
+2025-02-19 13:05:08,562 - INFO: No popup detected
+2025-02-19 13:05:08,567 - INFO: Audit Report URL: https://neosemo.ai/search/2787
+2025-02-19 13:05:10,572 - INFO: URL Insights for lewiscadillacofgardencity.com:
+No AI insights available
+2025-02-19 13:05:13,025 - INFO: URL entered: lewiscadillacofgardencity.com
+2025-02-19 13:05:13,081 - INFO: URL submitted
+2025-02-19 13:05:13,148 - INFO: Email entered
+2025-02-19 13:05:13,221 - INFO: Form submitted
+2025-02-19 13:05:21,343 - INFO: No popup detected
+2025-02-19 13:05:21,348 - INFO: Audit Report URL: https://neosemo.ai/search/2788
+2025-02-19 13:05:23,349 - INFO: URL Insights for www.lewis-nissan.com:
+No AI insights available
+2025-02-19 13:05:25,750 - INFO: URL entered: www.lewis-nissan.com
+2025-02-19 13:05:25,844 - INFO: URL submitted
+2025-02-19 13:05:25,914 - INFO: Email entered
+2025-02-19 13:05:25,965 - INFO: Form submitted
+2025-02-19 13:05:34,097 - INFO: No popup detected
+2025-02-19 13:05:34,102 - INFO: Audit Report URL: https://neosemo.ai/search/2789
+2025-02-19 13:05:36,106 - INFO: URL Insights for shopwesternhonda.com:
+No AI insights available
+2025-02-19 13:05:38,585 - INFO: URL entered: shopwesternhonda.com
+2025-02-19 13:05:38,650 - INFO: URL submitted
+2025-02-19 13:05:38,752 - INFO: Email entered
+2025-02-19 13:05:38,798 - INFO: Form submitted
+2025-02-19 13:05:46,919 - INFO: No popup detected
+2025-02-19 13:05:46,922 - INFO: Audit Report URL: https://neosemo.ai/search/2790
+2025-02-19 13:05:48,927 - INFO: URL Insights for beckmanmotorsgarnett.com:
+No AI insights available
+2025-02-19 13:05:51,382 - INFO: URL entered: beckmanmotorsgarnett.com
+2025-02-19 13:05:51,438 - INFO: URL submitted
+2025-02-19 13:05:51,510 - INFO: Email entered
+2025-02-19 13:05:51,579 - INFO: Form submitted
+2025-02-19 13:05:59,711 - INFO: No popup detected
+2025-02-19 13:05:59,720 - INFO: Audit Report URL: https://neosemo.ai/search/2791
+2025-02-19 13:06:01,725 - INFO: URL Insights for danbrennerford.com:
+No AI insights available
+2025-02-19 13:06:03,931 - INFO: URL entered: danbrennerford.com
+2025-02-19 13:06:04,006 - INFO: URL submitted
+2025-02-19 13:06:04,073 - INFO: Email entered
+2025-02-19 13:06:04,133 - INFO: Form submitted
+2025-02-19 13:06:12,259 - INFO: No popup detected
+2025-02-19 13:06:12,263 - INFO: Audit Report URL: https://neosemo.ai/search/2792
+2025-02-19 13:06:14,267 - INFO: URL Insights for herlchev.com:
+No AI insights available
+2025-02-19 13:06:16,677 - INFO: URL entered: herlchev.com
+2025-02-19 13:06:16,740 - INFO: URL submitted
+2025-02-19 13:06:16,826 - INFO: Email entered
+2025-02-19 13:06:16,905 - INFO: Form submitted
+2025-02-19 13:06:25,056 - INFO: No popup detected
+2025-02-19 13:06:25,062 - INFO: Audit Report URL: https://neosemo.ai/search/2793
+2025-02-19 13:06:27,066 - INFO: URL Insights for marmiegm.com:
+No AI insights available
+2025-02-19 13:06:29,473 - INFO: URL entered: marmiegm.com
+2025-02-19 13:06:29,540 - INFO: URL submitted
+2025-02-19 13:06:29,611 - INFO: Email entered
+2025-02-19 13:06:29,695 - INFO: Form submitted
+2025-02-19 13:06:37,829 - INFO: No popup detected
+2025-02-19 13:06:37,834 - INFO: Audit Report URL: https://neosemo.ai/search/2794
+2025-02-19 13:06:39,838 - INFO: URL Insights for marmiegm.com:
+No AI insights available
+2025-02-19 13:06:42,310 - INFO: URL entered: marmiegm.com
+2025-02-19 13:06:42,375 - INFO: URL submitted
+2025-02-19 13:06:42,436 - INFO: Email entered
+2025-02-19 13:06:42,493 - INFO: Form submitted
+2025-02-19 13:06:50,621 - INFO: No popup detected
+2025-02-19 13:06:50,625 - INFO: Audit Report URL: https://neosemo.ai/search/2795
+2025-02-19 13:06:52,629 - INFO: URL Insights for marmiegm.com:
+No AI insights available
+2025-02-19 13:06:55,049 - INFO: URL entered: marmiegm.com
+2025-02-19 13:06:55,111 - INFO: URL submitted
+2025-02-19 13:06:55,165 - INFO: Email entered
+2025-02-19 13:06:55,217 - INFO: Form submitted
+2025-02-19 13:07:03,342 - INFO: No popup detected
+2025-02-19 13:07:03,347 - INFO: Audit Report URL: https://neosemo.ai/search/2796
+2025-02-19 13:07:05,351 - INFO: URL Insights for www.marmiemotorschryslerdodgejeep.com:
+No AI insights available
+2025-02-19 13:07:07,759 - INFO: URL entered: www.marmiemotorschryslerdodgejeep.com
+2025-02-19 13:07:07,826 - INFO: URL submitted
+2025-02-19 13:07:07,882 - INFO: Email entered
+2025-02-19 13:07:07,926 - INFO: Form submitted
+2025-02-19 13:07:16,077 - INFO: No popup detected
+2025-02-19 13:07:16,080 - INFO: Audit Report URL: https://neosemo.ai/search/2797
+2025-02-19 13:07:18,085 - INFO: URL Insights for newberryfamilyauto.com:
+No AI insights available
+2025-02-19 13:07:20,461 - INFO: URL entered: newberryfamilyauto.com
+2025-02-19 13:07:20,531 - INFO: URL submitted
+2025-02-19 13:07:20,619 - INFO: Email entered
+2025-02-19 13:07:20,675 - INFO: Form submitted
+2025-02-19 13:07:28,835 - INFO: No popup detected
+2025-02-19 13:07:28,838 - INFO: Audit Report URL: https://neosemo.ai/search/2798
+2025-02-19 13:07:30,842 - INFO: URL Insights for shepchevrolet.com:
+No AI insights available
+2025-02-19 13:07:33,225 - INFO: URL entered: shepchevrolet.com
+2025-02-19 13:07:33,279 - INFO: URL submitted
+2025-02-19 13:07:33,337 - INFO: Email entered
+2025-02-19 13:07:33,423 - INFO: Form submitted
+2025-02-19 13:07:41,544 - INFO: No popup detected
+2025-02-19 13:07:41,546 - INFO: Audit Report URL: https://neosemo.ai/search/2799
+2025-02-19 13:07:43,549 - INFO: URL Insights for jamesmotor.com:
+No AI insights available
+2025-02-19 13:07:45,964 - INFO: URL entered: jamesmotor.com
+2025-02-19 13:07:46,023 - INFO: URL submitted
+2025-02-19 13:07:46,111 - INFO: Email entered
+2025-02-19 13:07:46,172 - INFO: Form submitted
+2025-02-19 13:07:54,300 - INFO: No popup detected
+2025-02-19 13:07:54,304 - INFO: Audit Report URL: https://neosemo.ai/search/2800
+2025-02-19 13:07:56,310 - INFO: URL Insights for jamesmotor.com:
+No AI insights available
+2025-02-19 13:07:58,718 - INFO: URL entered: jamesmotor.com
+2025-02-19 13:07:58,796 - INFO: URL submitted
+2025-02-19 13:07:58,877 - INFO: Email entered
+2025-02-19 13:07:58,950 - INFO: Form submitted
+2025-02-19 13:08:04,524 - INFO: Popup closed
+2025-02-19 13:08:04,526 - INFO: Audit Report URL: https://neosemo.ai/search/2801
+2025-02-19 13:08:06,530 - INFO: URL Insights for hillsborofordks.net:
+No AI insights available
+2025-02-19 13:08:08,939 - INFO: URL entered: hillsborofordks.net
+2025-02-19 13:08:08,999 - INFO: URL submitted
+2025-02-19 13:08:09,066 - INFO: Email entered
+2025-02-19 13:08:09,123 - INFO: Form submitted
+2025-02-19 13:08:17,248 - INFO: No popup detected
+2025-02-19 13:08:17,251 - INFO: Audit Report URL: https://neosemo.ai/search/2802
+2025-02-19 13:08:19,254 - INFO: URL Insights for midwaymotorshillsboro.com:
+No AI insights available
+2025-02-19 13:08:21,860 - INFO: URL entered: midwaymotorshillsboro.com
+2025-02-19 13:08:21,937 - INFO: URL submitted
+2025-02-19 13:08:22,024 - INFO: Email entered
+2025-02-19 13:08:22,076 - INFO: Form submitted
+2025-02-19 13:08:30,199 - INFO: No popup detected
+2025-02-19 13:08:30,203 - INFO: Audit Report URL: https://neosemo.ai/search/2803
+2025-02-19 13:08:32,206 - INFO: URL Insights for mchevy.com:
+No AI insights available
+2025-02-19 13:08:34,623 - INFO: URL entered: mchevy.com
+2025-02-19 13:08:34,725 - INFO: URL submitted
+2025-02-19 13:08:34,780 - INFO: Email entered
+2025-02-19 13:08:34,827 - INFO: Form submitted
+2025-02-19 13:08:42,963 - INFO: No popup detected
+2025-02-19 13:08:42,968 - INFO: Audit Report URL: https://neosemo.ai/search/2804
+2025-02-19 13:08:44,973 - INFO: URL Insights for dougrichertchevybuick.com:
+No AI insights available
+2025-02-19 13:08:47,425 - INFO: URL entered: dougrichertchevybuick.com
+2025-02-19 13:08:47,510 - INFO: URL submitted
+2025-02-19 13:08:47,566 - INFO: Email entered
+2025-02-19 13:08:47,617 - INFO: Form submitted
+2025-02-19 13:08:55,739 - INFO: No popup detected
+2025-02-19 13:08:55,743 - INFO: Audit Report URL: https://neosemo.ai/search/2805
+2025-02-19 13:08:57,747 - INFO: URL Insights for fosterfordinc.com:
+No AI insights available
+2025-02-19 13:09:00,153 - INFO: URL entered: fosterfordinc.com
+2025-02-19 13:09:00,225 - INFO: URL submitted
+2025-02-19 13:09:00,325 - INFO: Email entered
+2025-02-19 13:09:00,384 - INFO: Form submitted
+2025-02-19 13:09:08,514 - INFO: No popup detected
+2025-02-19 13:09:08,520 - INFO: Audit Report URL: https://neosemo.ai/search/2806
+2025-02-19 13:09:10,524 - INFO: URL Insights for conklinbuickgmchutchinson.com:
+No AI insights available
+2025-02-19 13:09:12,967 - INFO: URL entered: conklinbuickgmchutchinson.com
+2025-02-19 13:09:13,027 - INFO: URL submitted
+2025-02-19 13:09:13,097 - INFO: Email entered
+2025-02-19 13:09:13,190 - INFO: Form submitted
+2025-02-19 13:09:21,321 - INFO: No popup detected
+2025-02-19 13:09:21,324 - INFO: Audit Report URL: https://neosemo.ai/search/2807
+2025-02-19 13:09:23,327 - INFO: URL Insights for conklinhondahutchinson.com:
+No AI insights available
+2025-02-19 13:09:25,539 - INFO: URL entered: conklinhondahutchinson.com
+2025-02-19 13:09:25,633 - INFO: URL submitted
+2025-02-19 13:09:25,715 - INFO: Email entered
+2025-02-19 13:09:25,763 - INFO: Form submitted
+2025-02-19 13:09:33,887 - INFO: No popup detected
+2025-02-19 13:09:33,889 - INFO: Audit Report URL: https://neosemo.ai/search/2808
+2025-02-19 13:09:35,894 - INFO: URL Insights for allensamuelshutch.com:
+No AI insights available
+2025-02-19 13:09:38,284 - INFO: URL entered: allensamuelshutch.com
+2025-02-19 13:09:38,348 - INFO: URL submitted
+2025-02-19 13:09:38,422 - INFO: Email entered
+2025-02-19 13:09:38,516 - INFO: Form submitted
+2025-02-19 13:09:46,642 - INFO: No popup detected
+2025-02-19 13:09:46,646 - INFO: Audit Report URL: https://neosemo.ai/search/2809
+2025-02-19 13:09:48,650 - INFO: URL Insights for midwaymotorshutchinson.com:
+No AI insights available
+2025-02-19 13:09:51,086 - INFO: URL entered: midwaymotorshutchinson.com
+2025-02-19 13:09:51,143 - INFO: URL submitted
+2025-02-19 13:09:51,199 - INFO: Email entered
+2025-02-19 13:09:51,255 - INFO: Form submitted
+2025-02-19 13:09:59,387 - INFO: No popup detected
+2025-02-19 13:09:59,391 - INFO: Audit Report URL: https://neosemo.ai/search/2810
+2025-02-19 13:10:01,396 - INFO: URL Insights for midwesttoyotadealer.com:
+No AI insights available
+2025-02-19 13:10:03,815 - INFO: URL entered: midwesttoyotadealer.com
+2025-02-19 13:10:03,881 - INFO: URL submitted
+2025-02-19 13:10:03,995 - INFO: Email entered
+2025-02-19 13:10:04,049 - INFO: Form submitted
+2025-02-19 13:10:12,175 - INFO: No popup detected
+2025-02-19 13:10:12,178 - INFO: Audit Report URL: https://neosemo.ai/search/2811
+2025-02-19 13:10:14,182 - INFO: URL Insights for www.qualitymotors.com:
+No AI insights available
+2025-02-19 13:10:16,604 - INFO: URL entered: www.qualitymotors.com
+2025-02-19 13:10:16,666 - INFO: URL submitted
+2025-02-19 13:10:16,729 - INFO: Email entered
+2025-02-19 13:10:16,806 - INFO: Form submitted
+2025-02-19 13:10:24,921 - INFO: No popup detected
+2025-02-19 13:10:24,925 - INFO: Audit Report URL: https://neosemo.ai/search/2812
+2025-02-19 13:10:26,930 - INFO: URL Insights for quality-toyota.com:
+No AI insights available
+2025-02-19 13:10:29,475 - INFO: URL entered: quality-toyota.com
+2025-02-19 13:10:29,576 - INFO: URL submitted
+2025-02-19 13:10:29,660 - INFO: Email entered
+2025-02-19 13:10:29,730 - INFO: Form submitted
+2025-02-19 13:10:37,881 - INFO: No popup detected
+2025-02-19 13:10:37,887 - INFO: Audit Report URL: https://neosemo.ai/search/2813
+2025-02-19 13:10:39,892 - INFO: URL Insights for romansgm.com:
+No AI insights available
+2025-02-19 13:10:42,316 - INFO: URL entered: romansgm.com
+2025-02-19 13:10:42,376 - INFO: URL submitted
+2025-02-19 13:10:42,465 - INFO: Email entered
+2025-02-19 13:10:42,527 - INFO: Form submitted
+2025-02-19 13:10:50,658 - INFO: No popup detected
+2025-02-19 13:10:50,661 - INFO: Audit Report URL: https://neosemo.ai/search/2814
+2025-02-19 13:10:52,666 - INFO: URL Insights for dickedwardsautoplaza.com:
+No AI insights available
+2025-02-19 13:10:55,064 - INFO: URL entered: dickedwardsautoplaza.com
+2025-02-19 13:10:55,127 - INFO: URL submitted
+2025-02-19 13:10:55,218 - INFO: Email entered
+2025-02-19 13:10:55,547 - INFO: Form submitted
+2025-02-19 13:11:03,683 - INFO: No popup detected
+2025-02-19 13:11:03,688 - INFO: Audit Report URL: https://neosemo.ai/search/2815
+2025-02-19 13:11:05,693 - INFO: URL Insights for www.dickedwardskia.com:
+No AI insights available
+2025-02-19 13:11:07,855 - INFO: URL entered: www.dickedwardskia.com
+2025-02-19 13:11:07,946 - INFO: URL submitted
+2025-02-19 13:11:08,005 - INFO: Email entered
+2025-02-19 13:11:08,057 - INFO: Form submitted
+2025-02-19 13:11:16,191 - INFO: No popup detected
+2025-02-19 13:11:16,195 - INFO: Audit Report URL: https://neosemo.ai/search/2816
+2025-02-19 13:11:18,199 - INFO: URL Insights for jimclarkchevroletcadillac.com:
+No AI insights available
+2025-02-19 13:11:20,620 - INFO: URL entered: jimclarkchevroletcadillac.com
+2025-02-19 13:11:20,684 - INFO: URL submitted
+2025-02-19 13:11:20,795 - INFO: Email entered
+2025-02-19 13:11:20,859 - INFO: Form submitted
+2025-02-19 13:11:28,979 - INFO: No popup detected
+2025-02-19 13:11:28,981 - INFO: Audit Report URL: https://neosemo.ai/search/2817
+2025-02-19 13:11:30,986 - INFO: URL Insights for www.dealertown.co:
+No AI insights available
+2025-02-19 13:11:33,500 - INFO: URL entered: www.dealertown.co
+2025-02-19 13:11:33,561 - INFO: URL submitted
+2025-02-19 13:11:33,655 - INFO: Email entered
+2025-02-19 13:11:33,708 - INFO: Form submitted
+2025-02-19 13:11:41,871 - INFO: No popup detected
+2025-02-19 13:11:41,875 - INFO: Audit Report URL: https://neosemo.ai/search/2818
+2025-02-19 13:11:43,880 - INFO: URL Insights for legendstoyota.com:
+No AI insights available
+2025-02-19 13:11:46,272 - INFO: URL entered: legendstoyota.com
+2025-02-19 13:11:46,341 - INFO: URL submitted
+2025-02-19 13:11:46,469 - INFO: Email entered
+2025-02-19 13:11:46,528 - INFO: Form submitted
+2025-02-19 13:11:54,658 - INFO: No popup detected
+2025-02-19 13:11:54,661 - INFO: Audit Report URL: https://neosemo.ai/search/2819
+2025-02-19 13:11:56,666 - INFO: URL Insights for randycurnow.com:
+No AI insights available
+2025-02-19 13:11:59,053 - INFO: URL entered: randycurnow.com
+2025-02-19 13:11:59,120 - INFO: URL submitted
+2025-02-19 13:11:59,204 - INFO: Email entered
+2025-02-19 13:11:59,260 - INFO: Form submitted
+2025-02-19 13:12:07,395 - INFO: No popup detected
+2025-02-19 13:12:07,398 - INFO: Audit Report URL: https://neosemo.ai/search/2820
+2025-02-19 13:12:09,402 - INFO: URL Insights for randycurnow.com:
+No AI insights available
+2025-02-19 13:12:11,793 - INFO: URL entered: randycurnow.com
+2025-02-19 13:12:11,857 - INFO: URL submitted
+2025-02-19 13:12:11,909 - INFO: Email entered
+2025-02-19 13:12:11,998 - INFO: Form submitted
+2025-02-19 13:12:20,134 - INFO: No popup detected
+2025-02-19 13:12:20,138 - INFO: Audit Report URL: https://neosemo.ai/search/2821
+2025-02-19 13:12:22,142 - INFO: URL Insights for victoryfordkc.com:
+No AI insights available
+2025-02-19 13:12:24,553 - INFO: URL entered: victoryfordkc.com
+2025-02-19 13:12:24,613 - INFO: URL submitted
+2025-02-19 13:12:24,706 - INFO: Email entered
+2025-02-19 13:12:24,774 - INFO: Form submitted
+2025-02-19 13:12:32,899 - INFO: No popup detected
+2025-02-19 13:12:32,903 - INFO: Audit Report URL: https://neosemo.ai/search/2822
+2025-02-19 13:12:34,907 - INFO: URL Insights for newberryfamilymotors.com:
+No AI insights available
+2025-02-19 13:12:37,332 - INFO: URL entered: newberryfamilymotors.com
+2025-02-19 13:12:37,434 - INFO: URL submitted
+2025-02-19 13:12:37,497 - INFO: Email entered
+2025-02-19 13:12:37,543 - INFO: Form submitted
+2025-02-19 13:12:45,677 - INFO: No popup detected
+2025-02-19 13:12:45,680 - INFO: Audit Report URL: https://neosemo.ai/search/2823
+2025-02-19 13:12:47,683 - INFO: URL Insights for bryanChevroletbuick.com:
+No AI insights available
+2025-02-19 13:12:50,079 - INFO: URL entered: bryanChevroletbuick.com
+2025-02-19 13:12:50,139 - INFO: URL submitted
+2025-02-19 13:12:50,201 - INFO: Email entered
+2025-02-19 13:12:50,273 - INFO: Form submitted
+2025-02-19 13:12:58,395 - INFO: No popup detected
+2025-02-19 13:12:58,399 - INFO: Audit Report URL: https://neosemo.ai/search/2824
+2025-02-19 13:13:00,402 - INFO: URL Insights for www.speedwaychryslerdodgejeep.com:
+No AI insights available
+2025-02-19 13:13:02,795 - INFO: URL entered: www.speedwaychryslerdodgejeep.com
+2025-02-19 13:13:02,851 - INFO: URL submitted
+2025-02-19 13:13:02,909 - INFO: Email entered
+2025-02-19 13:13:02,957 - INFO: Form submitted
+2025-02-19 13:13:11,084 - INFO: No popup detected
+2025-02-19 13:13:11,088 - INFO: Audit Report URL: https://neosemo.ai/search/2825
+2025-02-19 13:13:13,097 - INFO: 
+--- Processing Complete ---
+Successfully processed: 52 URLs
+Failed to process: 22 URLs
+
+2025-02-19 13:13:13,098 - INFO: Failed URLs:
+2025-02-19 13:13:13,098 - INFO: - hollyChevrolet.com
+2025-02-19 13:13:13,098 - INFO: - reedyfordonline.com
+2025-02-19 13:13:13,098 - INFO: - lewisChevroletbuick.com
+2025-02-19 13:13:13,098 - INFO: - www.cwbeamgard.com
+2025-02-19 13:13:13,098 - INFO: - donhattanford.com
+2025-02-19 13:13:13,098 - INFO: - parksmotors.com
+2025-02-19 13:13:13,098 - INFO: - www.parkschryslerdodgejeep.com
+2025-02-19 13:13:13,098 - INFO: - meltonChevrolet.com
+2025-02-19 13:13:13,098 - INFO: - crow-moddieChevrolet.com
+2025-02-19 13:13:13,098 - INFO: - jayhatfieldchanute.com
+2025-02-19 13:13:13,098 - INFO: - jayhatfieldchanute.com
+2025-02-19 13:13:13,098 - INFO: - www.shieldsmotorchryslerdodgejeep.com
+2025-02-19 13:13:13,098 - INFO: - lubbersbrothers.com
+2025-02-19 13:13:13,098 - INFO: - www.colbychryslerdodgejeep.com
+2025-02-19 13:13:13,098 - INFO: - jayhatfieldchevy.net
+2025-02-19 13:13:13,098 - INFO: - mikecarpinoford.com
+2025-02-19 13:13:13,099 - INFO: - concordiachevybuick.com
+2025-02-19 13:13:13,099 - INFO: - www.boltonchryslerdodgejeep.com
+2025-02-19 13:13:13,099 - INFO: - www.facebook.com
+2025-02-19 13:13:13,099 - INFO: - buygghyundai.com
+2025-02-19 13:13:13,099 - INFO: - www.buyggautos.com
+2025-02-19 13:13:13,099 - INFO: - www.loppmotors.net
+2025-02-19 14:39:03,341 - INFO: ====== WebDriver manager ======
+2025-02-19 14:39:03,566 - INFO: Get LATEST chromedriver version for google-chrome
+2025-02-19 14:39:03,688 - INFO: Get LATEST chromedriver version for google-chrome
+2025-02-19 14:39:03,728 - INFO: Driver [/Users/copp1723/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-19 14:39:05,253 - INFO: URL Insights for holmauto.com:
+No AI insights available
+2025-02-19 14:39:08,475 - INFO: URL entered: holmauto.com
+2025-02-19 14:39:08,534 - INFO: URL submitted
+2025-02-19 14:39:08,596 - INFO: Email entered
+2025-02-19 14:39:08,653 - INFO: Form submitted
+2025-02-19 14:39:16,295 - INFO: Popup closed
+2025-02-19 14:39:16,298 - INFO: Audit Report URL: https://neosemo.ai/search/2842
+2025-02-19 14:39:18,299 - INFO: URL Insights for holmautocadillac.com:
+No AI insights available
+2025-02-19 14:39:20,715 - INFO: URL entered: holmautocadillac.com
+2025-02-19 14:39:20,765 - INFO: URL submitted
+2025-02-19 14:39:20,814 - INFO: Email entered
+2025-02-19 14:39:20,854 - INFO: Form submitted
+2025-02-19 14:39:28,985 - INFO: No popup detected
+2025-02-19 14:39:28,989 - INFO: Audit Report URL: https://neosemo.ai/search/2843
+2025-02-19 14:39:30,990 - INFO: URL Insights for hollyChevrolet.com:
+No AI insights available
+2025-02-19 14:39:33,395 - INFO: URL entered: hollyChevrolet.com
+2025-02-19 14:39:33,444 - INFO: URL submitted
+2025-02-19 14:39:33,488 - INFO: Email entered
+2025-02-19 14:39:33,526 - INFO: Form submitted
+2025-02-19 14:39:41,658 - INFO: No popup detected
+2025-02-19 14:39:41,663 - INFO: Audit Report URL: https://neosemo.ai/search/2844
+2025-02-19 14:39:43,665 - INFO: URL Insights for reedyfordonline.com:
+No AI insights available
+2025-02-19 14:39:46,137 - INFO: URL entered: reedyfordonline.com
+2025-02-19 14:39:46,185 - INFO: URL submitted
+2025-02-19 14:39:46,243 - INFO: Email entered
+2025-02-19 14:39:46,286 - INFO: Form submitted
+2025-02-19 14:39:54,412 - INFO: No popup detected
+2025-02-19 14:39:54,416 - INFO: Audit Report URL: https://neosemo.ai/search/2845
+2025-02-19 14:39:56,419 - INFO: URL Insights for lewisChevroletbuick.com:
+No AI insights available
+2025-02-19 14:39:58,837 - INFO: URL entered: lewisChevroletbuick.com
+2025-02-19 14:39:58,884 - INFO: URL submitted
+2025-02-19 14:39:58,929 - INFO: Email entered
+2025-02-19 14:39:58,970 - INFO: Form submitted
+2025-02-19 14:40:07,102 - INFO: No popup detected
+2025-02-19 14:40:07,107 - INFO: Audit Report URL: https://neosemo.ai/search/2846
+2025-02-19 14:40:09,116 - INFO: URL Insights for www.cwbeamgard.com:
+No AI insights available
+2025-02-19 14:40:11,777 - INFO: URL entered: www.cwbeamgard.com
+2025-02-19 14:40:11,824 - INFO: URL submitted
+2025-02-19 14:40:11,867 - INFO: Email entered
+2025-02-19 14:40:11,953 - INFO: Form submitted
+2025-02-19 14:40:20,087 - INFO: No popup detected
+2025-02-19 14:40:20,091 - INFO: Audit Report URL: https://neosemo.ai/search/2847
+2025-02-19 14:40:22,092 - INFO: URL Insights for donhattanford.com:
+No AI insights available
+2025-02-19 14:40:24,240 - INFO: URL entered: donhattanford.com
+2025-02-19 14:40:24,290 - INFO: URL submitted
+2025-02-19 14:40:24,334 - INFO: Email entered
+2025-02-19 14:40:24,379 - INFO: Form submitted
+2025-02-19 14:40:32,506 - INFO: No popup detected
+2025-02-19 14:40:32,508 - INFO: Audit Report URL: https://neosemo.ai/search/2848
+2025-02-19 14:40:34,513 - INFO: URL Insights for parksmotors.com:
+No AI insights available
+2025-02-19 14:40:37,151 - INFO: URL entered: parksmotors.com
+2025-02-19 14:40:37,197 - INFO: URL submitted
+2025-02-19 14:40:37,270 - INFO: Email entered
+2025-02-19 14:40:37,311 - INFO: Form submitted
+2025-02-19 14:40:45,452 - INFO: No popup detected
+2025-02-19 14:40:45,456 - INFO: Audit Report URL: https://neosemo.ai/search/2849
+2025-02-19 14:40:47,458 - INFO: URL Insights for www.parkschryslerdodgejeep.com:
+No AI insights available
+2025-02-19 14:40:49,912 - INFO: URL entered: www.parkschryslerdodgejeep.com
+2025-02-19 14:40:49,963 - INFO: URL submitted
+2025-02-19 14:40:50,029 - INFO: Email entered
+2025-02-19 14:40:50,083 - INFO: Form submitted
+2025-02-19 14:40:58,212 - INFO: No popup detected
+2025-02-19 14:40:58,216 - INFO: Audit Report URL: https://neosemo.ai/search/2850
+2025-02-19 14:41:00,218 - INFO: URL Insights for meltonChevrolet.com:
+No AI insights available
+2025-02-19 14:41:02,711 - INFO: URL entered: meltonChevrolet.com
+2025-02-19 14:41:02,761 - INFO: URL submitted
+2025-02-19 14:41:02,809 - INFO: Email entered
+2025-02-19 14:41:02,847 - INFO: Form submitted
+2025-02-19 14:41:10,978 - INFO: No popup detected
+2025-02-19 14:41:10,984 - INFO: Audit Report URL: https://neosemo.ai/search/2851
+2025-02-19 14:41:12,989 - INFO: URL Insights for crow-moddieChevrolet.com:
+No AI insights available
+2025-02-19 14:41:15,525 - INFO: URL entered: crow-moddieChevrolet.com
+2025-02-19 14:41:15,592 - INFO: URL submitted
+2025-02-19 14:41:15,646 - INFO: Email entered
+2025-02-19 14:41:15,686 - INFO: Form submitted
+2025-02-19 14:41:23,834 - INFO: No popup detected
+2025-02-19 14:41:23,839 - INFO: Audit Report URL: https://neosemo.ai/search/2852
+2025-02-19 14:41:25,840 - INFO: URL Insights for jayhatfieldchanute.com:
+No AI insights available
+2025-02-19 14:41:28,643 - INFO: URL entered: jayhatfieldchanute.com
+2025-02-19 14:41:28,695 - INFO: URL submitted
+2025-02-19 14:41:28,745 - INFO: Email entered
+2025-02-19 14:41:39,136 - ERROR: Failed to submit form for jayhatfieldchanute.com: Message: 
+
+2025-02-19 14:41:41,139 - INFO: URL Insights for jayhatfieldchanute.com:
+No AI insights available
+2025-02-19 14:41:43,907 - INFO: URL entered: jayhatfieldchanute.com
+2025-02-19 14:41:43,959 - INFO: URL submitted
+2025-02-19 14:41:44,022 - INFO: Email entered
+2025-02-19 14:41:54,385 - ERROR: Failed to submit form for jayhatfieldchanute.com: Message: 
+
+2025-02-19 14:41:56,390 - INFO: URL Insights for www.shieldsmotorchryslerdodgejeep.com:
+No AI insights available
+2025-02-19 14:41:59,261 - INFO: URL entered: www.shieldsmotorchryslerdodgejeep.com
+2025-02-19 14:41:59,315 - INFO: URL submitted
+2025-02-19 14:41:59,379 - INFO: Email entered
+2025-02-19 14:42:09,763 - ERROR: Failed to submit form for www.shieldsmotorchryslerdodgejeep.com: Message: 
+
+2025-02-19 14:42:11,767 - INFO: URL Insights for lubbersbrothers.com:
+No AI insights available
+2025-02-19 14:42:14,576 - INFO: URL entered: lubbersbrothers.com
+2025-02-19 14:42:14,629 - INFO: URL submitted
+2025-02-19 14:42:14,698 - INFO: Email entered
+2025-02-19 14:42:25,047 - ERROR: Failed to submit form for lubbersbrothers.com: Message: 
+
+2025-02-19 14:42:27,054 - INFO: URL Insights for www.colbychryslerdodgejeep.com:
+No AI insights available
+2025-02-19 14:42:29,670 - INFO: URL entered: www.colbychryslerdodgejeep.com
+2025-02-19 14:42:29,718 - INFO: URL submitted
+2025-02-19 14:42:29,772 - INFO: Email entered
+2025-02-19 14:42:29,820 - INFO: Form submitted
+2025-02-19 14:42:37,980 - INFO: No popup detected
+2025-02-19 14:42:37,984 - INFO: Audit Report URL: https://neosemo.ai/search/2853
+2025-02-19 14:42:39,985 - INFO: URL Insights for jayhatfieldchevy.net:
+No AI insights available
+2025-02-19 14:42:42,576 - INFO: URL entered: jayhatfieldchevy.net
+2025-02-19 14:42:42,631 - INFO: URL submitted
+2025-02-19 14:42:42,677 - INFO: Email entered
+2025-02-19 14:42:42,717 - INFO: Form submitted
+2025-02-19 14:42:50,848 - INFO: No popup detected
+2025-02-19 14:42:50,852 - INFO: Audit Report URL: https://neosemo.ai/search/2854
+2025-02-19 14:42:52,855 - INFO: URL Insights for mikecarpinoford.com:
+No AI insights available
+2025-02-19 14:42:56,606 - INFO: URL entered: mikecarpinoford.com
+2025-02-19 14:42:56,659 - INFO: URL submitted
+2025-02-19 14:42:56,706 - INFO: Email entered
+2025-02-19 14:42:56,744 - INFO: Form submitted
+2025-02-19 14:43:04,937 - INFO: No popup detected
+2025-02-19 14:43:04,944 - INFO: Audit Report URL: https://neosemo.ai/search/2855
+2025-02-19 14:43:06,949 - INFO: URL Insights for concordiachevybuick.com:
+No AI insights available
+2025-02-19 14:43:09,691 - INFO: URL entered: concordiachevybuick.com
+2025-02-19 14:43:09,785 - INFO: URL submitted
+2025-02-19 14:43:09,869 - INFO: Email entered
+2025-02-19 14:43:09,970 - INFO: Form submitted
+2025-02-19 14:43:18,210 - INFO: No popup detected
+2025-02-19 14:43:18,215 - INFO: Audit Report URL: https://neosemo.ai/search/2856
+2025-02-19 14:43:20,220 - INFO: URL Insights for www.boltonchryslerdodgejeep.com:
+No AI insights available
+2025-02-19 14:43:22,793 - INFO: URL entered: www.boltonchryslerdodgejeep.com
+2025-02-19 14:43:22,848 - INFO: URL submitted
+2025-02-19 14:43:22,903 - INFO: Email entered
+2025-02-19 14:43:22,946 - INFO: Form submitted
+2025-02-19 14:43:31,103 - INFO: No popup detected
+2025-02-19 14:43:31,108 - INFO: Audit Report URL: https://neosemo.ai/search/2857
+2025-02-19 14:43:33,119 - INFO: URL Insights for www.facebook.com:
+No AI insights available
+2025-02-19 14:43:35,730 - INFO: URL entered: www.facebook.com
+2025-02-19 14:43:35,805 - INFO: URL submitted
+2025-02-19 14:43:35,857 - INFO: Email entered
+2025-02-19 14:43:35,895 - INFO: Form submitted
+2025-02-19 14:43:44,039 - INFO: No popup detected
+2025-02-19 14:43:44,045 - INFO: Audit Report URL: https://neosemo.ai/search/2858
+2025-02-19 14:43:46,049 - INFO: URL Insights for buygghyundai.com:
+No AI insights available
+2025-02-19 14:43:48,983 - INFO: URL entered: buygghyundai.com
+2025-02-19 14:43:49,048 - INFO: URL submitted
+2025-02-19 14:43:49,107 - INFO: Email entered
+2025-02-19 14:43:49,155 - INFO: Form submitted
+2025-02-19 14:43:57,301 - INFO: No popup detected
+2025-02-19 14:43:57,305 - INFO: Audit Report URL: https://neosemo.ai/search/2859
+2025-02-19 14:43:59,311 - INFO: URL Insights for www.buyggautos.com:
+No AI insights available
+2025-02-19 14:44:01,833 - INFO: URL entered: www.buyggautos.com
+2025-02-19 14:44:01,883 - INFO: URL submitted
+2025-02-19 14:44:01,942 - INFO: Email entered
+2025-02-19 14:44:02,010 - INFO: Form submitted
+2025-02-19 14:44:10,154 - INFO: No popup detected
+2025-02-19 14:44:10,158 - INFO: Audit Report URL: https://neosemo.ai/search/2860
+2025-02-19 14:44:12,162 - INFO: URL Insights for www.loppmotors.net:
+No AI insights available
+2025-02-19 14:44:14,708 - INFO: URL entered: www.loppmotors.net
+2025-02-19 14:44:14,764 - INFO: URL submitted
+2025-02-19 14:44:14,807 - INFO: Email entered
+2025-02-19 14:44:14,847 - INFO: Form submitted
+2025-02-19 14:44:22,975 - INFO: No popup detected
+2025-02-19 14:44:22,979 - INFO: Audit Report URL: https://neosemo.ai/search/2861
+2025-02-19 14:44:24,983 - INFO: URL Insights for www.loppmotors.net:
+No AI insights available
+2025-02-19 14:44:27,509 - INFO: URL entered: www.loppmotors.net
+2025-02-19 14:44:27,557 - INFO: URL submitted
+2025-02-19 14:44:27,607 - INFO: Email entered
+2025-02-19 14:44:27,659 - INFO: Form submitted
+2025-02-19 14:44:33,772 - INFO: Popup closed
+2025-02-19 14:44:33,774 - INFO: Audit Report URL: https://neosemo.ai/search/2862
+2025-02-19 14:44:35,778 - INFO: URL Insights for johnkfisher.com:
+No AI insights available
+2025-02-19 14:44:38,311 - INFO: URL entered: johnkfisher.com
+2025-02-19 14:44:38,361 - INFO: URL submitted
+2025-02-19 14:44:38,409 - INFO: Email entered
+2025-02-19 14:44:38,449 - INFO: Form submitted
+2025-02-19 14:44:46,588 - INFO: No popup detected
+2025-02-19 14:44:46,595 - INFO: Audit Report URL: https://neosemo.ai/search/2863
+2025-02-19 14:44:48,600 - INFO: URL Insights for johnkfisher.com:
+No AI insights available
+2025-02-19 14:44:51,423 - INFO: URL entered: johnkfisher.com
+2025-02-19 14:44:51,476 - INFO: URL submitted
+2025-02-19 14:44:51,539 - INFO: Email entered
+2025-02-19 14:44:51,595 - INFO: Form submitted
+2025-02-19 14:44:59,731 - INFO: No popup detected
+2025-02-19 14:44:59,734 - INFO: Audit Report URL: https://neosemo.ai/search/2864
+2025-02-19 14:45:01,739 - INFO: URL Insights for clintbowyertoyota.com:
+No AI insights available
+2025-02-19 14:45:04,239 - INFO: URL entered: clintbowyertoyota.com
+2025-02-19 14:45:04,290 - INFO: URL submitted
+2025-02-19 14:45:04,334 - INFO: Email entered
+2025-02-19 14:45:04,380 - INFO: Form submitted
+2025-02-19 14:45:12,514 - INFO: No popup detected
+2025-02-19 14:45:12,520 - INFO: Audit Report URL: https://neosemo.ai/search/2865
+2025-02-19 14:45:14,526 - INFO: URL Insights for www.johnnorthnissan.com:
+No AI insights available
+2025-02-19 14:45:17,025 - INFO: URL entered: www.johnnorthnissan.com
+2025-02-19 14:45:17,085 - INFO: URL submitted
+2025-02-19 14:45:17,136 - INFO: Email entered
+2025-02-19 14:45:17,184 - INFO: Form submitted
+2025-02-19 14:45:25,338 - INFO: No popup detected
+2025-02-19 14:45:25,343 - INFO: Audit Report URL: https://neosemo.ai/search/2866
+2025-02-19 14:45:27,347 - INFO: URL Insights for longbineauto.com:
+No AI insights available
+2025-02-19 14:45:29,843 - INFO: URL entered: longbineauto.com
+2025-02-19 14:45:29,897 - INFO: URL submitted
+2025-02-19 14:45:29,972 - INFO: Email entered
+2025-02-19 14:45:30,030 - INFO: Form submitted
+2025-02-19 14:45:38,164 - INFO: No popup detected
+2025-02-19 14:45:38,169 - INFO: Audit Report URL: https://neosemo.ai/search/2867
+2025-02-19 14:45:40,174 - INFO: URL Insights for briggsftscottchevrolet.com:
+No AI insights available
+2025-02-19 14:45:42,922 - INFO: URL entered: briggsftscottchevrolet.com
+2025-02-19 14:45:42,987 - INFO: URL submitted
+2025-02-19 14:45:43,038 - INFO: Email entered
+2025-02-19 14:45:53,421 - ERROR: Failed to submit form for briggsftscottchevrolet.com: Message: 
+
+2025-02-19 14:45:55,426 - INFO: URL Insights for briggsftscottChevrolet.com:
+No AI insights available
+2025-02-19 14:45:58,160 - INFO: URL entered: briggsftscottChevrolet.com
+2025-02-19 14:45:58,220 - INFO: URL submitted
+2025-02-19 14:45:58,291 - INFO: Email entered
+2025-02-19 14:45:58,352 - INFO: Form submitted
+2025-02-19 14:46:06,504 - INFO: No popup detected
+2025-02-19 14:46:06,510 - INFO: Audit Report URL: https://neosemo.ai/search/2868
+2025-02-19 14:46:08,514 - INFO: URL Insights for briggsoffortscottks.com:
+No AI insights available
+2025-02-19 14:46:11,271 - INFO: URL entered: briggsoffortscottks.com
+2025-02-19 14:46:11,335 - INFO: URL submitted
+2025-02-19 14:46:11,396 - INFO: Email entered
+2025-02-19 14:46:21,811 - ERROR: Failed to submit form for briggsoffortscottks.com: Message: 
+
+2025-02-19 14:46:23,812 - INFO: URL Insights for leechev.com:
+No AI insights available
+2025-02-19 14:46:26,563 - INFO: URL entered: leechev.com
+2025-02-19 14:46:26,623 - INFO: URL submitted
+2025-02-19 14:46:26,675 - INFO: Email entered
+2025-02-19 14:46:37,075 - ERROR: Failed to submit form for leechev.com: Message: 
+
+2025-02-19 14:46:39,079 - INFO: URL Insights for molleautomotive.net:
+No AI insights available
+2025-02-19 14:46:42,019 - INFO: URL entered: molleautomotive.net
+2025-02-19 14:46:42,104 - INFO: URL submitted
+2025-02-19 14:46:42,157 - INFO: Email entered
+2025-02-19 14:46:52,555 - ERROR: Failed to submit form for molleautomotive.net: Message: 
+
+2025-02-19 14:46:54,559 - INFO: URL Insights for molleautomotive.net:
+No AI insights available
+2025-02-19 14:46:57,342 - INFO: URL entered: molleautomotive.net
+2025-02-19 14:46:57,406 - INFO: URL submitted
+2025-02-19 14:46:57,475 - INFO: Email entered
+2025-02-19 14:47:07,880 - ERROR: Failed to submit form for molleautomotive.net: Message: 
+
+2025-02-19 14:47:09,883 - INFO: URL Insights for lewiscadillacofgardencity.com:
+No AI insights available
+2025-02-19 14:47:12,644 - INFO: URL entered: lewiscadillacofgardencity.com
+2025-02-19 14:47:12,715 - INFO: URL submitted
+2025-02-19 14:47:12,774 - INFO: Email entered
+2025-02-19 14:47:23,162 - ERROR: Failed to submit form for lewiscadillacofgardencity.com: Message: 
+
+2025-02-19 14:47:25,168 - INFO: URL Insights for www.lewis-nissan.com:
+No AI insights available
+2025-02-19 14:47:27,892 - INFO: URL entered: www.lewis-nissan.com
+2025-02-19 14:47:27,962 - INFO: URL submitted
+2025-02-19 14:47:28,016 - INFO: Email entered
+2025-02-19 14:47:38,400 - ERROR: Failed to submit form for www.lewis-nissan.com: Message: 
+
+2025-02-19 14:47:40,407 - INFO: URL Insights for shopwesternhonda.com:
+No AI insights available
+2025-02-19 14:47:43,162 - INFO: URL entered: shopwesternhonda.com
+2025-02-19 14:47:43,238 - INFO: URL submitted
+2025-02-19 14:47:43,299 - INFO: Email entered
+2025-02-19 14:47:53,692 - ERROR: Failed to submit form for shopwesternhonda.com: Message: 
+
+2025-02-19 14:47:55,699 - INFO: URL Insights for beckmanmotorsgarnett.com:
+No AI insights available
+2025-02-19 14:47:58,431 - INFO: URL entered: beckmanmotorsgarnett.com
+2025-02-19 14:47:58,497 - INFO: URL submitted
+2025-02-19 14:47:58,557 - INFO: Email entered
+2025-02-19 14:48:08,970 - ERROR: Failed to submit form for beckmanmotorsgarnett.com: Message: 
+
+2025-02-19 14:48:10,974 - INFO: URL Insights for danbrennerford.com:
+No AI insights available
+2025-02-19 14:48:13,697 - INFO: URL entered: danbrennerford.com
+2025-02-19 14:48:13,765 - INFO: URL submitted
+2025-02-19 14:48:13,816 - INFO: Email entered
+2025-02-19 14:48:23,869 - ERROR: Failed to submit form for danbrennerford.com: Message: 
+
+2025-02-19 14:48:25,872 - INFO: URL Insights for herlchev.com:
+No AI insights available
+2025-02-19 14:48:28,639 - INFO: URL entered: herlchev.com
+2025-02-19 14:48:28,699 - INFO: URL submitted
+2025-02-19 14:48:28,750 - INFO: Email entered
+2025-02-19 14:48:39,119 - ERROR: Failed to submit form for herlchev.com: Message: 
+
+2025-02-19 14:48:41,125 - INFO: URL Insights for marmiegm.com:
+No AI insights available
+2025-02-19 14:48:44,059 - INFO: URL entered: marmiegm.com
+2025-02-19 14:48:44,127 - INFO: URL submitted
+2025-02-19 14:48:44,178 - INFO: Email entered
+2025-02-19 14:48:54,557 - ERROR: Failed to submit form for marmiegm.com: Message: 
+
+2025-02-19 14:48:56,561 - INFO: URL Insights for marmiegm.com:
+No AI insights available
+2025-02-19 14:48:59,370 - INFO: URL entered: marmiegm.com
+2025-02-19 14:48:59,438 - INFO: URL submitted
+2025-02-19 14:48:59,496 - INFO: Email entered
+2025-02-19 14:49:09,876 - ERROR: Failed to submit form for marmiegm.com: Message: 
+
+2025-02-19 14:49:11,879 - INFO: URL Insights for marmiegm.com:
+No AI insights available
+2025-02-19 14:49:14,720 - INFO: URL entered: marmiegm.com
+2025-02-19 14:49:14,786 - INFO: URL submitted
+2025-02-19 14:49:14,843 - INFO: Email entered
+2025-02-19 14:49:25,216 - ERROR: Failed to submit form for marmiegm.com: Message: 
+
+2025-02-19 14:49:27,217 - INFO: URL Insights for www.marmiemotorschryslerdodgejeep.com:
+No AI insights available
+2025-02-19 14:49:30,213 - INFO: URL entered: www.marmiemotorschryslerdodgejeep.com
+2025-02-19 14:49:30,276 - INFO: URL submitted
+2025-02-19 14:49:30,329 - INFO: Email entered
+2025-02-19 14:49:40,715 - ERROR: Failed to submit form for www.marmiemotorschryslerdodgejeep.com: Message: 
+
+2025-02-19 14:49:42,720 - INFO: URL Insights for newberryfamilyauto.com:
+No AI insights available
+2025-02-19 14:49:45,645 - INFO: URL entered: newberryfamilyauto.com
+2025-02-19 14:49:45,715 - INFO: URL submitted
+2025-02-19 14:49:45,770 - INFO: Email entered
+2025-02-19 14:49:56,122 - ERROR: Failed to submit form for newberryfamilyauto.com: Message: 
+
+2025-02-19 14:49:58,129 - INFO: URL Insights for shepchevrolet.com:
+No AI insights available
+2025-02-19 14:50:00,969 - INFO: URL entered: shepchevrolet.com
+2025-02-19 14:50:01,052 - INFO: URL submitted
+2025-02-19 14:50:01,107 - INFO: Email entered
+2025-02-19 14:50:11,487 - ERROR: Failed to submit form for shepchevrolet.com: Message: 
+
+2025-02-19 14:50:13,491 - INFO: URL Insights for jamesmotor.com:
+No AI insights available
+2025-02-19 14:50:16,355 - INFO: URL entered: jamesmotor.com
+2025-02-19 14:50:16,416 - INFO: URL submitted
+2025-02-19 14:50:16,466 - INFO: Email entered
+2025-02-19 14:50:26,897 - ERROR: Failed to submit form for jamesmotor.com: Message: 
+
+2025-02-19 14:50:28,905 - INFO: URL Insights for jamesmotor.com:
+No AI insights available
+2025-02-19 14:50:31,705 - INFO: URL entered: jamesmotor.com
+2025-02-19 14:50:31,768 - INFO: URL submitted
+2025-02-19 14:50:31,823 - INFO: Email entered
+2025-02-19 14:50:42,226 - ERROR: Failed to submit form for jamesmotor.com: Message: 
+
+2025-02-19 14:50:44,227 - INFO: URL Insights for hillsborofordks.net:
+No AI insights available
+2025-02-19 14:50:47,055 - INFO: URL entered: hillsborofordks.net
+2025-02-19 14:50:47,118 - INFO: URL submitted
+2025-02-19 14:50:47,180 - INFO: Email entered
+2025-02-19 14:50:57,587 - ERROR: Failed to submit form for hillsborofordks.net: Message: 
+
+2025-02-19 14:50:59,598 - INFO: URL Insights for midwaymotorshillsboro.com:
+No AI insights available
+2025-02-19 14:51:04,132 - INFO: URL entered: midwaymotorshillsboro.com
+2025-02-19 14:51:04,215 - INFO: URL submitted
+2025-02-19 14:51:04,272 - INFO: Email entered
+2025-02-19 14:51:14,726 - ERROR: Failed to submit form for midwaymotorshillsboro.com: Message: 
+
+2025-02-19 14:51:16,734 - INFO: URL Insights for mchevy.com:
+No AI insights available
+2025-02-19 14:51:19,813 - INFO: URL entered: mchevy.com
+2025-02-19 14:51:19,945 - INFO: URL submitted
+2025-02-19 14:51:20,002 - INFO: Email entered
+2025-02-19 14:51:30,428 - ERROR: Failed to submit form for mchevy.com: Message: 
+
+2025-02-19 14:51:32,430 - INFO: URL Insights for dougrichertchevybuick.com:
+No AI insights available
+2025-02-19 14:51:35,441 - INFO: URL entered: dougrichertchevybuick.com
+2025-02-19 14:51:35,500 - INFO: URL submitted
+2025-02-19 14:51:35,550 - INFO: Email entered
+2025-02-19 14:51:45,962 - ERROR: Failed to submit form for dougrichertchevybuick.com: Message: 
+
+2025-02-19 14:51:47,966 - INFO: URL Insights for fosterfordinc.com:
+No AI insights available
+2025-02-19 14:51:50,966 - INFO: URL entered: fosterfordinc.com
+2025-02-19 14:51:51,063 - INFO: URL submitted
+2025-02-19 14:51:51,153 - INFO: Email entered
+2025-02-19 14:52:01,558 - ERROR: Failed to submit form for fosterfordinc.com: Message: 
+
+2025-02-19 14:52:03,560 - INFO: URL Insights for conklinbuickgmchutchinson.com:
+No AI insights available
+2025-02-19 14:52:06,743 - INFO: URL entered: conklinbuickgmchutchinson.com
+2025-02-19 14:52:06,840 - INFO: URL submitted
+2025-02-19 14:52:06,896 - INFO: Email entered
+2025-02-19 14:52:17,239 - ERROR: Failed to submit form for conklinbuickgmchutchinson.com: Message: 
+
+2025-02-19 14:52:19,245 - INFO: URL Insights for conklinhondahutchinson.com:
+No AI insights available
+2025-02-19 14:52:22,188 - INFO: URL entered: conklinhondahutchinson.com
+2025-02-19 14:52:22,250 - INFO: URL submitted
+2025-02-19 14:52:22,301 - INFO: Email entered
+2025-02-19 14:52:32,633 - ERROR: Failed to submit form for conklinhondahutchinson.com: Message: 
+
+2025-02-19 14:52:34,639 - INFO: URL Insights for allensamuelshutch.com:
+No AI insights available
+2025-02-19 14:52:37,677 - INFO: URL entered: allensamuelshutch.com
+2025-02-19 14:52:37,737 - INFO: URL submitted
+2025-02-19 14:52:37,788 - INFO: Email entered
+2025-02-19 14:52:48,195 - ERROR: Failed to submit form for allensamuelshutch.com: Message: 
+
+2025-02-19 14:52:50,196 - INFO: URL Insights for midwaymotorshutchinson.com:
+No AI insights available
+2025-02-19 14:52:53,205 - INFO: URL entered: midwaymotorshutchinson.com
+2025-02-19 14:52:53,269 - INFO: URL submitted
+2025-02-19 14:52:53,321 - INFO: Email entered
+2025-02-19 14:53:03,725 - ERROR: Failed to submit form for midwaymotorshutchinson.com: Message: 
+
+2025-02-19 14:53:05,731 - INFO: URL Insights for midwesttoyotadealer.com:
+No AI insights available
+2025-02-19 14:53:08,666 - INFO: URL entered: midwesttoyotadealer.com
+2025-02-19 14:53:08,733 - INFO: URL submitted
+2025-02-19 14:53:08,792 - INFO: Email entered
+2025-02-19 14:53:19,188 - ERROR: Failed to submit form for midwesttoyotadealer.com: Message: 
+
+2025-02-19 14:53:21,194 - INFO: URL Insights for www.qualitymotors.com:
+No AI insights available
+2025-02-19 14:53:24,070 - INFO: URL entered: www.qualitymotors.com
+2025-02-19 14:53:24,129 - INFO: URL submitted
+2025-02-19 14:53:24,178 - INFO: Email entered
+2025-02-19 14:53:34,587 - ERROR: Failed to submit form for www.qualitymotors.com: Message: 
+
+2025-02-19 14:53:36,590 - INFO: URL Insights for quality-toyota.com:
+No AI insights available
+2025-02-19 14:53:39,469 - INFO: URL entered: quality-toyota.com
+2025-02-19 14:53:39,525 - INFO: URL submitted
+2025-02-19 14:53:39,638 - INFO: Email entered
+2025-02-19 14:53:50,044 - ERROR: Failed to submit form for quality-toyota.com: Message: 
+
+2025-02-19 14:53:52,054 - INFO: URL Insights for romansgm.com:
+No AI insights available
+2025-02-19 14:53:54,862 - INFO: URL entered: romansgm.com
+2025-02-19 14:53:54,941 - INFO: URL submitted
+2025-02-19 14:53:55,004 - INFO: Email entered
+2025-02-19 14:54:05,488 - ERROR: Failed to submit form for romansgm.com: Message: 
+
+2025-02-19 14:54:07,498 - INFO: URL Insights for dickedwardsautoplaza.com:
+No AI insights available
+2025-02-19 14:54:11,218 - INFO: URL entered: dickedwardsautoplaza.com
+2025-02-19 14:54:11,391 - INFO: URL submitted
+2025-02-19 14:54:11,468 - INFO: Email entered
+2025-02-19 14:54:21,916 - ERROR: Failed to submit form for dickedwardsautoplaza.com: Message: 
+
+2025-02-19 14:54:23,921 - INFO: URL Insights for www.dickedwardskia.com:
+No AI insights available
+2025-02-19 14:54:26,955 - INFO: URL entered: www.dickedwardskia.com
+2025-02-19 14:54:27,025 - INFO: URL submitted
+2025-02-19 14:54:27,076 - INFO: Email entered
+2025-02-19 14:54:37,460 - ERROR: Failed to submit form for www.dickedwardskia.com: Message: 
+
+2025-02-19 14:54:39,465 - INFO: URL Insights for jimclarkchevroletcadillac.com:
+No AI insights available
+2025-02-19 14:54:42,251 - INFO: URL entered: jimclarkchevroletcadillac.com
+2025-02-19 14:54:42,314 - INFO: URL submitted
+2025-02-19 14:54:42,363 - INFO: Email entered
+2025-02-19 14:54:52,775 - ERROR: Failed to submit form for jimclarkchevroletcadillac.com: Message: 
+
+2025-02-19 14:54:54,781 - INFO: URL Insights for www.dealertown.co:
+No AI insights available
+2025-02-19 14:54:57,607 - INFO: URL entered: www.dealertown.co
+2025-02-19 14:54:57,714 - INFO: URL submitted
+2025-02-19 14:54:57,768 - INFO: Email entered
+2025-02-19 14:55:08,254 - ERROR: Failed to submit form for www.dealertown.co: Message: 
+
+2025-02-19 14:55:10,258 - INFO: URL Insights for legendstoyota.com:
+No AI insights available
+2025-02-19 14:55:13,010 - INFO: URL entered: legendstoyota.com
+2025-02-19 14:55:13,071 - INFO: URL submitted
+2025-02-19 14:55:13,123 - INFO: Email entered
+2025-02-19 14:55:23,535 - ERROR: Failed to submit form for legendstoyota.com: Message: 
+
+2025-02-19 14:55:25,542 - INFO: URL Insights for randycurnow.com:
+No AI insights available
+2025-02-19 14:55:28,190 - INFO: URL entered: randycurnow.com
+2025-02-19 14:55:28,250 - INFO: URL submitted
+2025-02-19 14:55:28,301 - INFO: Email entered
+2025-02-19 14:55:38,718 - ERROR: Failed to submit form for randycurnow.com: Message: 
+
+2025-02-19 14:55:40,722 - INFO: URL Insights for randycurnow.com:
+No AI insights available
+2025-02-19 14:55:43,393 - INFO: URL entered: randycurnow.com
+2025-02-19 14:55:43,450 - INFO: URL submitted
+2025-02-19 14:55:43,501 - INFO: Email entered
+2025-02-19 14:55:53,917 - ERROR: Failed to submit form for randycurnow.com: Message: 
+
+2025-02-19 14:55:55,922 - INFO: URL Insights for victoryfordkc.com:
+No AI insights available
+2025-02-19 14:55:58,615 - INFO: URL entered: victoryfordkc.com
+2025-02-19 14:55:58,673 - INFO: URL submitted
+2025-02-19 14:55:58,723 - INFO: Email entered
+2025-02-19 14:56:09,147 - ERROR: Failed to submit form for victoryfordkc.com: Message: 
+
+2025-02-19 14:56:11,154 - INFO: URL Insights for newberryfamilymotors.com:
+No AI insights available
+2025-02-19 14:56:13,794 - INFO: URL entered: newberryfamilymotors.com
+2025-02-19 14:56:13,854 - INFO: URL submitted
+2025-02-19 14:56:13,904 - INFO: Email entered
+2025-02-19 14:56:24,329 - ERROR: Failed to submit form for newberryfamilymotors.com: Message: 
+
+2025-02-19 14:56:26,336 - INFO: URL Insights for bryanChevroletbuick.com:
+No AI insights available
+2025-02-19 14:56:29,480 - INFO: URL entered: bryanChevroletbuick.com
+2025-02-19 14:56:29,575 - INFO: URL submitted
+2025-02-19 14:56:29,635 - INFO: Email entered
+2025-02-19 14:56:40,121 - ERROR: Failed to submit form for bryanChevroletbuick.com: Message: 
+
+2025-02-19 14:56:42,126 - INFO: URL Insights for www.speedwaychryslerdodgejeep.com:
+No AI insights available
+2025-02-19 14:56:45,188 - INFO: URL entered: www.speedwaychryslerdodgejeep.com
+2025-02-19 14:56:45,300 - INFO: URL submitted
+2025-02-19 14:56:45,355 - INFO: Email entered
+2025-02-19 14:56:55,809 - ERROR: Failed to submit form for www.speedwaychryslerdodgejeep.com: Message: 
+
+2025-02-19 14:56:57,858 - INFO: 
+--- Processing Complete ---
+Successfully processed: 27 URLs
+Failed to process: 47 URLs
+
+2025-02-19 14:56:57,859 - INFO: Failed URLs:
+2025-02-19 14:56:57,859 - INFO: - jayhatfieldchanute.com
+2025-02-19 14:56:57,859 - INFO: - jayhatfieldchanute.com
+2025-02-19 14:56:57,859 - INFO: - www.shieldsmotorchryslerdodgejeep.com
+2025-02-19 14:56:57,859 - INFO: - lubbersbrothers.com
+2025-02-19 14:56:57,859 - INFO: - briggsftscottchevrolet.com
+2025-02-19 14:56:57,859 - INFO: - briggsoffortscottks.com
+2025-02-19 14:56:57,859 - INFO: - leechev.com
+2025-02-19 14:56:57,859 - INFO: - molleautomotive.net
+2025-02-19 14:56:57,859 - INFO: - molleautomotive.net
+2025-02-19 14:56:57,859 - INFO: - lewiscadillacofgardencity.com
+2025-02-19 14:56:57,859 - INFO: - www.lewis-nissan.com
+2025-02-19 14:56:57,860 - INFO: - shopwesternhonda.com
+2025-02-19 14:56:57,860 - INFO: - beckmanmotorsgarnett.com
+2025-02-19 14:56:57,860 - INFO: - danbrennerford.com
+2025-02-19 14:56:57,860 - INFO: - herlchev.com
+2025-02-19 14:56:57,860 - INFO: - marmiegm.com
+2025-02-19 14:56:57,860 - INFO: - marmiegm.com
+2025-02-19 14:56:57,860 - INFO: - marmiegm.com
+2025-02-19 14:56:57,860 - INFO: - www.marmiemotorschryslerdodgejeep.com
+2025-02-19 14:56:57,860 - INFO: - newberryfamilyauto.com
+2025-02-19 14:56:57,860 - INFO: - shepchevrolet.com
+2025-02-19 14:56:57,860 - INFO: - jamesmotor.com
+2025-02-19 14:56:57,860 - INFO: - jamesmotor.com
+2025-02-19 14:56:57,860 - INFO: - hillsborofordks.net
+2025-02-19 14:56:57,860 - INFO: - midwaymotorshillsboro.com
+2025-02-19 14:56:57,860 - INFO: - mchevy.com
+2025-02-19 14:56:57,860 - INFO: - dougrichertchevybuick.com
+2025-02-19 14:56:57,860 - INFO: - fosterfordinc.com
+2025-02-19 14:56:57,860 - INFO: - conklinbuickgmchutchinson.com
+2025-02-19 14:56:57,860 - INFO: - conklinhondahutchinson.com
+2025-02-19 14:56:57,860 - INFO: - allensamuelshutch.com
+2025-02-19 14:56:57,860 - INFO: - midwaymotorshutchinson.com
+2025-02-19 14:56:57,860 - INFO: - midwesttoyotadealer.com
+2025-02-19 14:56:57,860 - INFO: - www.qualitymotors.com
+2025-02-19 14:56:57,860 - INFO: - quality-toyota.com
+2025-02-19 14:56:57,860 - INFO: - romansgm.com
+2025-02-19 14:56:57,860 - INFO: - dickedwardsautoplaza.com
+2025-02-19 14:56:57,860 - INFO: - www.dickedwardskia.com
+2025-02-19 14:56:57,860 - INFO: - jimclarkchevroletcadillac.com
+2025-02-19 14:56:57,860 - INFO: - www.dealertown.co
+2025-02-19 14:56:57,860 - INFO: - legendstoyota.com
+2025-02-19 14:56:57,860 - INFO: - randycurnow.com
+2025-02-19 14:56:57,860 - INFO: - randycurnow.com
+2025-02-19 14:56:57,860 - INFO: - victoryfordkc.com
+2025-02-19 14:56:57,860 - INFO: - newberryfamilymotors.com
+2025-02-19 14:56:57,860 - INFO: - bryanChevroletbuick.com
+2025-02-19 14:56:57,860 - INFO: - www.speedwaychryslerdodgejeep.com
